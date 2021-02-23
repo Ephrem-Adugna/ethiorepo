@@ -1,6 +1,10 @@
 html {
     scroll-behavior: smooth;
     background: url(./assets/back.png) fixed no-repeat;
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
 }
 .timeline{
     width: 90%;
